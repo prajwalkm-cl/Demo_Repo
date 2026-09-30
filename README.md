@@ -1,1 +1,1 @@
-Hey this just an demo Repository
+Hey this is just an demo Repository
